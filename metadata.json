@@ -1,0 +1,6 @@
+{
+  "name": "Text to Speech Converter",
+  "description": "An advanced Text to Speech converter featuring language translation, adjustable playback speed, emotion and voice selection, speaker gender detection, and high-quality MP3, WAV, and AAC exporting with history tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
